@@ -49,3 +49,8 @@ Ready. Start speaking.
 Speech duration: 3.42 seconds
 Transcript: The weather in Mumbai is sunny today
 ✅ Transcript saved to output/transcript_log.txt
+
+author:
+manasseh v
+Be.cse
+k.s.k college of engineering and technology
