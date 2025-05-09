@@ -1,0 +1,6 @@
+PS C:\Users\manas\OneDrive\Documents\py.2>  & 'c:\Program Files\Python312\python.exe' 'c:\Users\manas\.vscode\extensions\ms-python.debugpy-2025.8.0-win32-x64\bundled\libs\debugpy\launcher' '51425' '--' 'C:\Users\manas\OneDrive\Documents\py.2\main.py' 
+Say Something
+you were trying to be funny
+Say Something
+recognizer text : hello bro
+Say Something
